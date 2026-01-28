@@ -1,0 +1,17 @@
+{
+  "name": "static-html-for-e2e-tests",
+  "version": "1.0.0",
+  "description": "This is an app that validates form inputs using HTML. It uses JavaScript to check for any invalid fields.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^25.0.10"
+  }
+}
